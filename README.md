@@ -37,7 +37,6 @@ Current interests:
 
 # 🧪 Featured Projects
 
----
 
 ## 📬 Gmail Inbox Prioritization Extension
 
