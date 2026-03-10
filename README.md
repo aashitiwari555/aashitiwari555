@@ -46,7 +46,8 @@ Instead of simple folder filtering, the extension analyzes email text using ML m
 
 ### 🔹 Key Features
 
-- 📬 Gmail inbox urgency-based reordering  
+- 📬 Gmail inbox urgency-based reordering
+- 🧠 Research Based Dataset curation and Augmentation from 250 to 5k entries 
 - 🧠 Intent classification for incoming emails  
 - ⚡ Urgency prediction model  
 - 🧩 Browser extension integration with Gmail  
