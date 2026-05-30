@@ -29,7 +29,6 @@ Current interests:
 - Machine Learning systems
 - NLP applications
 - Backend architecture
-- Deploying ML models as APIs
 
 ---
 
