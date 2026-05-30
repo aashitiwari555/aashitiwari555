@@ -79,23 +79,30 @@ The project demonstrates key **compiler pipeline concepts** while using a fun ma
 
 ---
 
-## 🕶 Face Blurring Privacy Protection Tool
+## 🤖 Agentic AI Registration Assistant
 
-A computer vision tool that automatically **detects faces and blurs them** to preserve privacy in images and video streams.
+A conversational AI chatbot that performs **Create, Read, Update, and Delete (CRUD)** operations on user registration records through natural language interaction.
 
-Useful for **privacy-preserving surveillance and media processing**. 
-An attempt to save people from the dark side of the internet **(meme-ification and cyber bullying)** by prevention of posting videos and images without consent.
+Built using an **agentic workflow powered by LangGraph and Gemini**, the chatbot intelligently understands user intent, extracts relevant information, validates inputs, and manages complete registration workflows through seamless multi-turn conversations.
+
+Useful for **AI-powered customer onboarding, registration management, and conversational database interactions**.
 
 ### 🔹 Features
 
-- Real-time face detection
-- Automatic face blurring
-- Privacy-focused automation
+* Conversational user registration
+* Full CRUD operations
+* AI-powered intent detection
+* Context-aware information extraction
+* Dynamic workflow switching
+* Multi-turn conversation management
+* Email, phone, and DOB validation
+* PostgreSQL database integration
+* Confirmation-based updates and deletions
+* Streamlit chat interface
 
 ### ⚙️ Tech
 
-`Python` • `OpenCV` • `NumPy`
-
+`Python` • `LangGraph` • `LangChain` • `Gemini API` • `PostgreSQL` • `Streamlit` • `psycopg2` • `Regex Validation`
 
 ---
 
