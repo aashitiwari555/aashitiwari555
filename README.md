@@ -21,15 +21,13 @@ I enjoy building systems where **machine learning meets practical software engin
 My projects usually combine:
 
 ⚙️ automation  
-🧠 machine learning  
-🔒 privacy-focused tools  
+🧠 machine learning   
 🧩 real-world system design  
 
 Current interests:
 
 - Machine Learning systems
 - NLP applications
-- Computer vision tools
 - Backend architecture
 - Deploying ML models as APIs
 
