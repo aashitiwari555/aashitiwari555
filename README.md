@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d7bff,100:000008&height=220&section=header&text=Hi,%20I'm%20Aashi%20Tiwari&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-### Machine Learning • NLP • Software Engineering
+### Machine Learning • NLP • Agentic AI
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00C2FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Developer;NLP+Enthusiast;Backend+Systems+Builder;Computer+Vision+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00C2FF&center=true&vCenter=true&width=650&lines=Machine+Learning;Natural+Language+Processing;Agentic+AI)
 
 🎓 BTech Computer Science & Engineering Student  
 🔬 Building intelligent tools that combine **AI + real-world software systems**  
