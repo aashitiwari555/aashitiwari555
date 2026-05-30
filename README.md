@@ -59,26 +59,6 @@ Instead of simple folder filtering, the extension analyzes email text using ML m
 
 ---
 
-## 🪄 Harry Potter Themed Compiler – Three Address Code Generator
-
-A custom programming language inspired by **Harry Potter spell syntax** that compiles into **Three Address Code (TAC)**.
-
-The project demonstrates key **compiler pipeline concepts** while using a fun magical language design.
-
-### 🔹 Features
-
-- Custom language grammar
-- Lexical analysis
-- Parsing
-- Intermediate representation
-- Three Address Code generation
-
-### ⚙️ Tech
-
-`Java` • `Compiler Design` • `Parsing` • `Intermediate Code Generation`
-
----
-
 ## 🤖 Agentic AI Registration Assistant
 
 A conversational AI chatbot that performs **Create, Read, Update, and Delete (CRUD)** operations on user registration records through natural language interaction.
@@ -105,6 +85,27 @@ Useful for **AI-powered customer onboarding, registration management, and conver
 `Python` • `LangGraph` • `LangChain` • `Gemini API` • `PostgreSQL` • `Streamlit` • `psycopg2` • `Regex Validation`
 
 ---
+
+## 🪄 Harry Potter Themed Compiler – Three Address Code Generator
+
+A custom programming language inspired by **Harry Potter spell syntax** that compiles into **Three Address Code (TAC)**.
+
+The project demonstrates key **compiler pipeline concepts** while using a fun magical language design.
+
+### 🔹 Features
+
+- Custom language grammar
+- Lexical analysis
+- Parsing
+- Intermediate representation
+- Three Address Code generation
+
+### ⚙️ Tech
+
+`Java` • `Compiler Design` • `Parsing` • `Intermediate Code Generation`
+
+---
+
 
 # 🧠 AI / ML & Data
 
